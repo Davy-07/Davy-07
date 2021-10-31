@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Davy-07
+- 👋 Hi, I’m Devanshu Mehta 
 - 👀 I’m interested in learning full stack web development . 
 - 🌱 I’m currently learning Data Structures and Algorithms , Sql and HTML
 - 📫 You can reach me out at devanshumehta8@gmail.com
