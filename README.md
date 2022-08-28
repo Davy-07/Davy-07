@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Devanshu Mehta 
 - 👀 I’m interested in learning full stack web development . 
-- 🌱 I’m currently learning Data Structures and Algorithms , Sql and HTML
+- 🌱 I’m currently learning Data Structures and Algorithms .
 - 📫 You can reach me out at devanshumehta8@gmail.com
 
 <!---
